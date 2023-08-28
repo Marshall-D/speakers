@@ -1,0 +1,21 @@
+{
+  "name": "speakers",
+  "version": "1.0.0",
+  "description": "speakers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "^12.3.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-placeholder": "^4.1.0"
+  }
+}
